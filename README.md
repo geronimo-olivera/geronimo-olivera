@@ -9,7 +9,7 @@ When I keep solving the same problem, I turn it into something reusable. These a
 | [Trigger Handler Framework](https://github.com/geronimo-olivera/Trigger-Handler-Framework) | One trigger per object, with handlers you enable, disable and reorder from custom metadata, plus a recursion guard. |
 | [Field Transition Framework](https://github.com/geronimo-olivera/Field-Transition-Framework) | Blocks a field change until configurable conditions are met, with an LWC checklist users see before they save. |
 | [Async Apex Framework](https://github.com/geronimo-olivera/Async-Apex-Framework) | Retries, failure emails and on/off switches for Batch and Queueable Apex, all from metadata. |
-| [Salesforce Utils](https://github.com/geronimo-olivera/salesforce-utils) | Services for callouts, email, notifications, files and collections, documented one by one. |
+| [Salesforce Utils](https://github.com/geronimo-olivera/Salesforce-Utils) | Services for callouts, email, notifications, files and collections, documented one by one. |
 
 **Stack:** Apex · SOQL · Lightning Web Components · Flows · Experience Cloud · REST and SOAP APIs · Platform Events · Salesforce CLI
 
